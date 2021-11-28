@@ -30,7 +30,7 @@ no = "❌"
 yes = "✅"
 # Central object is not used its Acknowledged
 tordb = TorToolkitDB()
-header = '<b>TorToolKitX by <a href="https://github.com/KangersHub/TorToolkitX">KangersHub</a></b>\n<u>ADMIN SETTINGS MENU - Beta v1</u>'
+header = '<b>Anjumani leech bot by <a href="https://t.me/anjumani_zone">Anjumani team</a></b>\n<u>ADMIN SETTINGS MENU</u>'
 
 
 async def handle_setting_callback(e):
